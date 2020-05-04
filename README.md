@@ -19,3 +19,6 @@ don't forget to change the email in every time you need to run it from tes case 
 
 to run it with DDT, you can run it fron "CheckoutTestWithDDT" class
 dont forget to change the email in every time you need to run it from the data provider methode to enable to register
+
+#Note: 
+I hardly tried to cover the part of "assertion from the table" but unfortunately i could't due to i am not understanding it, but i will try again.
